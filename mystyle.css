@@ -1,0 +1,25 @@
+input {
+        border-top-style: hidden;
+        border-right-style: hidden;
+	border-left-style: hidden;
+        border-bottom-style: groove;
+        background-color: #FFFFFF;
+	}
+.no-outline:focus{
+			outline:none;
+		  }
+input:focus{
+outline:none;
+
+ border-bottom-color:SpringGreen;
+}
+img  {
+border-radius:50%;
+}
+h7 {
+color:green;
+}
+.greenText
+{
+color:green;
+}
